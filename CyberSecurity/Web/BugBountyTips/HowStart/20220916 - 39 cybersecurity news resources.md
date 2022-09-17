@@ -23,6 +23,12 @@ No | Resources | Twitter | Website | | No | Resources | Twitter | Website
 **35** |  All InfoSec News | [Twitter](https://twitter.com/infosecnews_) | [Website](https://allinfosecnews.com/) | # | **36** |  CVE Trends | [Twitter](https://twitter.com/CVEtrends) | [Website](https://cvetrends.com/)
 **37** |  Securibee | [Twitter](https://twitter.com/securibee) | [Website](https://securib.ee/) | # | **38** |  Twitter | [Twitter]() | [Website](https://twitter.com/?lang=en)
 **39** |  threatABLE | [Twitter](https://twitter.com/threatable) | [Website](https://www.threatable.io/)
+**40** |  threatABLE | [Twitter](https://twitter.com/threatable) | [Website](https://radar.securitywizardry.com/)
+**41** |  threatABLE | [Twitter](https://twitter.com/threatable) | [Website](https://www.threatable.io/)
+**42** |  threatABLE | [Twitter](https://twitter.com/threatable) | [Website](https://www.threatable.io/)
+**43** |  threatABLE | [Twitter](https://twitter.com/threatable) | [Website](https://www.threatable.io/)
+**44** |  threatABLE | [Twitter](https://twitter.com/threatable) | [Website](https://www.threatable.io/)
+**45** |  threatABLE | [Twitter](https://twitter.com/threatable) | [Website](https://www.threatable.io/)
 
 <br>
 
